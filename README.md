@@ -1,5 +1,5 @@
 - 👋 Hi, I’m grithik
-- 👀 I’m interested in women
+- 👀 I’m interested in making new world!
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 projects
 
