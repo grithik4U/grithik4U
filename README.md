@@ -1,4 +1,4 @@
-- 👋 Hi, I’m grithik
+- 👋 Hi, I’m Saiganesh
 - 👀 I’m interested in .....
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on web3 projects
