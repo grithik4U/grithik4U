@@ -1,7 +1,7 @@
 # Hello, I'm Sai Ganesh Cheekuri 👋
 
 ## About Me
-Dedicated graduate student pursuing a master's in blockchain with a focus on AI, machine learning, and cryptocurrency. Passionate about the intersection of finance and technology. Currently seeking a 7 and half month internship in the blockchain-related field.
+Dedicated graduate student pursuing a master's in blockchain with a focus on AI, machine learning, and cryptocurrency. Passionate about the intersection of finance and technology.
 
 ## Skills
 - **Coding languages:** Solidity, Python, C, C++, HTML, Java, React.js, Web3.js, Node.js
